@@ -9,4 +9,4 @@ It aims to streamline the process of gathering relevant information about a pote
 
 The tool focuses on personalizing the approach by using data such as background research, common interests, and industry trends to create tailored summaries and talking points that can be used during sales meetings to build rapport with prospects.
 
-Watch the product's video and a presentation deck here: https://linktr.ee/rapportly
+Watch the product's video and a presentation deck [here](https://linktr.ee/rapportly).
