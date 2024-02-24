@@ -10,9 +10,8 @@ Rapportly is a digital tool designed to assist sales professionals in preparing 
 #### Methodology:
 The tool focuses on personalizing the approach by using data such as background research, common interests, and industry trends to create tailored summaries and talking points that can be used during sales meetings to build rapport with prospects.
 
-<img width="500" height="300" alt="image" src="https://github.com/Sanya-Chauhan/Rapportly_Call_Prep_Tool/assets/116647771/ffdf485b-3b09-448f-8428-4d83ab6a50e2">
+<img width="420" height="300" alt="image" src="https://github.com/Sanya-Chauhan/Rapportly_Call_Prep_Tool/assets/116647771/9cbb12f6-37b4-496a-aebd-8a043f2cbbaa">
 <img width="420" height="300" alt="image" src="https://github.com/Sanya-Chauhan/Rapportly_Call_Prep_Tool/assets/116647771/766a7cb5-762c-4aa9-962a-b682bfc9bdd0">
-
 
 #### Outcome:
 The salesperson (Rapportly's user) receives an email 10 minutes before every meeting (as per Google Calendar events). This email from Rapportly contains a 5-minute and a 1-minute summary which is enough to be prepared for the upcoming meeting. Below is a sample text of what an email contains.
