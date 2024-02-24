@@ -1,4 +1,4 @@
-# ![Product Logo](https://drive.google.com/file/d/1vbAcUnTEcu3DGmYv6ALhlCcSzRCcgY7m/view?usp=drive_link) Rapportly
+# Rapportly
 ## Build Rapport, Build Success
 
 This product was developed as a part of Google Product Hackathon 2024
