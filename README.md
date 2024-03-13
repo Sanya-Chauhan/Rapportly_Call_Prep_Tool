@@ -24,7 +24,7 @@ The salesperson (Rapportly's user) receives an email 10 minutes before every mee
 <img width="381" alt="Screenshot 2024-02-24 at 6 16 09 PM" src="https://github.com/Sanya-Chauhan/Rapportly_Call_Prep_Tool/assets/116647771/c7d36468-dd42-4510-8078-7700d3e57728">
 
 ## Team
-<img width="381" alt="Screenshot 2024-02-24 at 6 16 57 PM" src="https://github.com/Sanya-Chauhan/Rapportly_Call_Prep_Tool/images/image-3.png"> 
+<img width="381" alt="Screenshot 2024-02-24 at 6 16 57 PM" src="https://github.com/Sanya-Chauhan/Rapportly_Call_Prep_Tool/blob/be81a10a8f1cb185db07b9adc0320009ea0832f7/images/image-3.png"> 
 
 
 
