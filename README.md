@@ -2,7 +2,7 @@
 
 #### Build Rapport, Build Success
 
-*This product was developed as a part of Google Product Hackathon 2024.*
+*This product was developed as a part of Google Product Hackathon 2024. We got into the Top 5 teams.*
 
 
 
