@@ -2,7 +2,7 @@
 
 #### Build Rapport, Build Success
 
-*This product was developed as a part of Google Product Hackathon 2024. We got into the Top 5 teams.*
+*This product was developed as a part of Google Product Hackathon 2024. We got into the Top 5 teams. Check out my [LinkedIn post](https://www.linkedin.com/posts/sanya-chauhan_hackathon-productdevelopment-teamwork-activity-7170097502124240896-I7tx?utm_source=share&utm_medium=member_desktop).*
 
 
 
@@ -18,7 +18,7 @@ The tool focuses on personalizing the approach by using data such as background 
 
 
 ## Outcome
-The salesperson (Rapportly's user) receives an email 10 minutes before every meeting (as per Google Calendar events). This email from Rapportly contains a 5-minute and a 1-minute summary which is enough to be prepared for the upcoming meeting. Below is a sample text of what an email contains.
+The salesperson (Rapportly's user) receives an email 10 minutes before every meeting (as per Google Calendar events). This email from Rapportly contains a 5-minute and a 1-minute summary which is enough to be prepared for the upcoming meetings. Below is a sample text of what an email contains.
 
 <img width="381" alt="Screenshot 2024-02-24 at 6 16 57 PM" src="https://github.com/Sanya-Chauhan/Rapportly_Call_Prep_Tool/assets/116647771/c232e101-7a94-401f-b254-96aa4757cec3"> 
 <img width="381" alt="Screenshot 2024-02-24 at 6 16 09 PM" src="https://github.com/Sanya-Chauhan/Rapportly_Call_Prep_Tool/assets/116647771/c7d36468-dd42-4510-8078-7700d3e57728">
